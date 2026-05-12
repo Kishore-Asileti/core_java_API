@@ -6,9 +6,9 @@ public class ArrayListExample {
 
         ArrayList<String> list = new ArrayList<>();
 
-        list.add("Apple");
-        list.add("Banana");
-        list.add("Mango");
+        list.add("Apple"); // 0
+        list.add("Banana"); //1
+        list.add("Mango"); //2
 
         System.out.println("List: " + list);
 
