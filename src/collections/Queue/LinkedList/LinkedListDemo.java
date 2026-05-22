@@ -1,6 +1,6 @@
 package collections.Queue.LinkedList;
 import java.util.*;
-public class Demo {
+public class LinkedListDemo {
     public static void main(String[] args) {
         Queue<String> q = new LinkedList<>();
 

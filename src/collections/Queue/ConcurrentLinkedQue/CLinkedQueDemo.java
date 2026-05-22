@@ -2,7 +2,7 @@ package collections.Queue.ConcurrentLinkedQue;
 import java.util.*;
 import java.util.concurrent.ConcurrentLinkedQueue;
 
-public class Demo {
+public class CLinkedQueDemo {
     public static void main(String[] args) {
         Queue<String> q = new ConcurrentLinkedQueue<>();
 
