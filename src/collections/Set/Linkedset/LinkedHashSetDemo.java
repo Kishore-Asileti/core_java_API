@@ -8,6 +8,7 @@ public class LinkedHashSetDemo {
         set.add("Apple");
         set.add("Banana");
         set.add("Mango");
+        set.add("Pineapple");
 
         System.out.println(set);
     }

@@ -9,7 +9,7 @@ public class PriorityBlockingQueDemo {
 
         q.put(30);
         q.put(10);
-
+        q.put(20);
         System.out.println(q.take());
     }
 

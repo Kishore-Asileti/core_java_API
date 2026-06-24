@@ -8,7 +8,7 @@ public class HashMapDemo {
 
         map.put(101, "Kishore");
         map.put(102, "Rahul");
-        map.put(101, "Ravi");   // replaces old value
+        map.put(103, "Ravi");   // replaces old value
 
         System.out.println(map);
     }

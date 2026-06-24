@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/core_java_API.iml" filepath="$PROJECT_DIR$/core_java_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collections_topics.iml" filepath="$PROJECT_DIR$/collections_topics.iml" />
     </modules>
   </component>
 </project>
